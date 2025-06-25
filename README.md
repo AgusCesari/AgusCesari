@@ -14,8 +14,9 @@
 ### ⚙️ Tecnologías con las que trabajo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ruby,sqlite,git,vscode,linux" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=java,c,haskell,ruby,html,css,sqlite,vscode" alt="Stack Tecnológico" />
 </p>
+
 
 ---
 
