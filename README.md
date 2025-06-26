@@ -32,8 +32,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgusCesari&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusCesari&layout=compact&theme=tokyonight" alt="Lenguajes" />
 </p>
 
 ---
